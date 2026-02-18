@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://github.com/anishkumar25ug-web/My_first_Blog/posts/my-first-post/</loc>
     <lastmod>2026-02-04T11:38:53+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://github.com/anishkumar25ug-web/My_first_Blog/</loc>
     <lastmod>2026-02-04T11:38:53+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://github.com/anishkumar25ug-web/My_first_Blog/posts/</loc>
     <lastmod>2026-02-04T11:38:53+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://github.com/anishkumar25ug-web/My_first_Blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://github.com/anishkumar25ug-web/My_first_Blog/tags/</loc>
   </url>
 </urlset>

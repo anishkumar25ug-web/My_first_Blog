@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://github.com/anishkumar25ug-web/My_first_Blog/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Feb 2026 11:38:53 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/anishkumar25ug-web/My_first_Blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://github.com/anishkumar25ug-web/My_first_Blog/posts/my-first-post/</link>
       <pubDate>Wed, 04 Feb 2026 11:38:53 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://github.com/anishkumar25ug-web/My_first_Blog/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hi, I’m &lt;strong&gt;Anish Kumar&lt;/strong&gt;. I’m someone who’s curious to know the unknown. Currently I am in Azim Premji University for Bachalors(Hons) Degree in Informaiton Science. I enjoy learning, questioning ideas, and make connections. For me, education isn’t just about textbooks or exams; it’s about understanding society, power, and change in a deeper way.I am deeply interested in bunch of activities like painting, playing sports like badmintion, singing, a bit of dancing and traveling.&#xA;Beyond academics, I value clarity, consistency, and curiosity. I try to approach new ideas with an open mind and a willingness to learn, even when they challenge my existing views. This blog is  a small space where I share thoughts, reflections, and ideas as I continue that journey.&lt;/p&gt;</description>
     </item>
   </channel>
