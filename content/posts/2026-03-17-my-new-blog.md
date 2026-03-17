@@ -1,7 +1,7 @@
 +++
-date = '2026-02-04T11:38:53+05:30'
-draft = false
-title = 'reflection on unit - 2'
+title =  "Reflection on 2nd unit"
+date =  "2026-03-17"
+draft =  false
 +++
 My Learning Experience with Image Formation
 Before this course, I was having a basic idea about the image, and never thought that this topic would have such a deep concept of how exactly an image forms and how it undergoes transformation, filtration and other changes. The most interesting part was when I played with black and white image formation and changing its pixel. The concept of pixels, which are the tiny units of an image and  memory, which holds the image’s capacity were also totally new for me to process.Earlier I knew that images have two types: the color and the black and white image. I learnt how images form and how we can change its intensity to get different compositions of it. The color image is the composition of mainly three colors that are red, green and blue from which all images form. When I used to see the color image in HD I used to wonder how it is more clearer than other normal images. After going through this topic I understood how it works. The concept of filtration was also one of ideas which I used to be curious about.  I have been using the many editing applications on my device , but never knew what exactly was happening inside. For the user it was so easy to   bring different types of transformation to Image, on the other hand a lot of logical mathematics  goes into it. Upon changing the digital image process , my perception of the editing world has changed completely.Still there are some questions in my mind that, how do I get a movie file with a 2 or 3 gb when the actual storage of a simple 4k movie consumes more than 10 GB.
