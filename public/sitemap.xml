@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/anishkumar25ug-web/My_first_Blog/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/anishkumar25ug-web/My_first_Blog/</loc>
+    <lastmod>2026-04-05T23:26:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anishkumar25ug-web/My_first_Blog/posts/</loc>
+    <lastmod>2026-04-05T23:26:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anishkumar25ug-web/My_first_Blog/posts/unit03/</loc>
+    <lastmod>2026-04-05T23:26:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anishkumar25ug-web/My_first_Blog/posts/2026-03-18-my-second-blog/</loc>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anishkumar25ug-web/My_first_Blog/posts/2026-03-17-my-new-blog/</loc>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/anishkumar25ug-web/My_first_Blog/posts/my-first-post/</loc>
     <lastmod>2026-02-04T11:38:53+05:30</lastmod>
   </url><url>
-    <loc>https://github.com/anishkumar25ug-web/My_first_Blog/</loc>
-    <lastmod>2026-02-04T11:38:53+05:30</lastmod>
+    <loc>http://localhost:1313/anishkumar25ug-web/My_first_Blog/categories/</loc>
   </url><url>
-    <loc>https://github.com/anishkumar25ug-web/My_first_Blog/posts/</loc>
-    <lastmod>2026-02-04T11:38:53+05:30</lastmod>
-  </url><url>
-    <loc>https://github.com/anishkumar25ug-web/My_first_Blog/categories/</loc>
-  </url><url>
-    <loc>https://github.com/anishkumar25ug-web/My_first_Blog/tags/</loc>
+    <loc>http://localhost:1313/anishkumar25ug-web/My_first_Blog/tags/</loc>
   </url>
 </urlset>
