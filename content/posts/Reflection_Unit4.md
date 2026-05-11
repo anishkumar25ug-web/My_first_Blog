@@ -1,5 +1,10 @@
 +++
-date = '2026-05-11T09:49:07+05:30'
-draft = true
+date = '2026-05-11T13:09:08+05:30'
+draft = false
 title = 'Reflection_Unit4'
 +++
+**Experience on Metabase and Typebot **
+It was very pleasing to have a course like this and working on projects like typebot and metabase. When I used to see the dashboard in the businesses and in the corporate sector, I used to question myself about how it would have been created and how it was formed in a systematic way. At the same time chatboards also used to surprise me with how it is providing the answer each time correctly when I ask a question. Initially I didn’t care about the answer since I was not central towards my questioning but later I realised that being an Information Science student it could help me in creating something new out of it. 
+When I was working on the Typbot projects, it was pretty exciting and surprising at the same time because for me it was from scratch to intermediate. The process of creating the chatbot was one of the best experiences and I uncovered myself in the digital world of computing and created a path of learning. Before this project I had no idea how to work on chatbots and how to create one by ownself. I saw some of the videos from you tube to use the tools given that were there in the typebot. I recalled my past life, without computer access to this much was itself a big dream coming true in front of my eyes.
+Furthermore when I worked on the Metabase project, I had to face a few more challenges as firstly it was new and a bit of a puzzle for me. The data which was given to the whole class was the same and had to figure out the individual dashboards. I was really confused about the data and how to use it. Then I asked my peer(Shubh), he made me understand and told me how to select the data and make it worth reading it visually. At the same time my teammates(Sunayana) helped me figure out the broad theme and further I created my dash. I got to know much more after I tried by myself. Overall both the projects gave me a broader understanding of uses of two different tools. 
+
